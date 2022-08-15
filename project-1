@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+  <title>Jade Munoz</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://w0.peakpx.com/wallpaper/509/73/HD-wallpaper-aeroplane-aircraft-airplane-aviation-background-jets-navy-old-plane-planes.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+     
+    }
+    p {
+      font-size: 22px;
+      font-family: helvetica;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    img[src="https://mail.google.com/mail/u/0?ui=2&ik=d1f6b25472&attid=0.2&permmsgid=msg-a:r368137633880053292&th=181f919385a59105&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8HwB3LVPmog_3IzMlEBwaN9cMCt56NxciWLqUvQXFJZHjP9R-Zi0MKDLCdnch-fyqYSjSdq9pg--WefQVfmWbO1TSewH0xjD5G1iwbdsk_RI5Bv6oZAdhZqUw&disp=emb&realattid=181f918b21815119d282"] {
+      height: 20%;
+      border-radius:50%;
+      }
+  </style>
+</head>
+<body>
+  <img src="https://mail.google.com/mail/u/0?ui=2&ik=d1f6b25472&attid=0.2&permmsgid=msg-a:r368137633880053292&th=181f919385a59105&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8HwB3LVPmog_3IzMlEBwaN9cMCt56NxciWLqUvQXFJZHjP9R-Zi0MKDLCdnch-fyqYSjSdq9pg--WefQVfmWbO1TSewH0xjD5G1iwbdsk_RI5Bv6oZAdhZqUw&disp=emb&realattid=181f918b21815119d282">
+  <h1>Jade Munoz</h1>
+  <p>Hi! I'm Jade, a NYC based aerospace engineer.</p>
+  <p>Put your name and email in if you want me and my team to make you a plane.</p>
+  <ul>
+    <input type="Name" placeholder="Your name"> 
+    <input type="email" placeholder="Your email">
+    <input type="submit">
+  </ul>
+  <p>Contact me at 123-456-7890 or emmamunoz618@gmail.com</p>
+</body>
+</html>
