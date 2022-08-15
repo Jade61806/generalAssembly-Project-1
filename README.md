@@ -1,1 +1,1 @@
-# generalAssembly-Project-1
+# generalAssembly-projects
